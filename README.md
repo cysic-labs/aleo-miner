@@ -1,8 +1,3 @@
----
-title: Tutorial
-
----
-
 # Tutorial
 
 ## [Pool website](https://aleopool.cysic.xyz/)
