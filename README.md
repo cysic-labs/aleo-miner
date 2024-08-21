@@ -141,12 +141,14 @@ tail -f  /opt/cysic/prover/prover.log
 > The **prover will start automaticlly** after you run the install command,if you want to modify the parameters again, you can the **./install.sh** command with new parameters.If you want to **stop** or **start** the prover,you can check the commands in the following chapters.
 
 3.**Stop the prover**
+
 Run command to **stop** the running prover:
 ```
 systemctl stop  cysic-aleo-prover
 ```
 
 4.**Start the prover**
+
 Run command to **start** the prover,if your prover is not running:
 ```
 systemctl start  cysic-aleo-prover
