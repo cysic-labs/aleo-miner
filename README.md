@@ -114,6 +114,11 @@ ls
 
 Run the following command to install :
 
+Before running the command,please change the params to yours:
+ `--address`: your aleo address
+ `--name`: the  customized name of your machine
+ `--agent`: your agent server_ip and port
+
 ```
 ./install.sh --pool tls://asia.aleopool.cysic.xyz:16699 --address aleo18xe6qxxxxh --name machine_name_1  --agent your_agent_ip:port
 
