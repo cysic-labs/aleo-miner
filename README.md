@@ -103,9 +103,9 @@ https://github.com/cysic-labs/aleo-miner/releases
 Run the following command
 
 ```
-wget https://github.com/cysic-labs/aleo-miner/releases/download/v0.1.17/cysic-aleo-prover-v0.1.17.tgz
-tar -xf cysic-aleo-prover-v0.1.17.tgz 
-cd ./cysic-aleo-prover-v0.1.17
+wget https://github.com/cysic-labs/aleo-miner/releases/download/v0.1.18/cysic-aleo-prover-v0.1.18.tgz
+tar -xf cysic-aleo-prover-v0.1.18.tgz 
+cd ./cysic-aleo-prover-v0.1.18
 ls
 ```
 
